@@ -12,11 +12,12 @@ Ya saben usar git!
 
 ## Estudiante: Nombre estudiante
 
-Descripción
+Descripción: Soy Federico Sanguinetti, estoy cursando la Tecnicatura en Redes.
 
 Foto de mi persona:
+![fede](https://github.com/algo1unsam/presentaciontp0-idilioconjugado/assets/123421400/64df5d10-c09b-4f1d-8b5c-f90e1005ff52)
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+
 
 Diente de Leon
 
